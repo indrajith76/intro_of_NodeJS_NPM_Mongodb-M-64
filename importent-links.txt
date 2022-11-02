@@ -1,0 +1,6 @@
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch#uploading_json_data
+
+https://reactgo.com/express-req-body-undefined/
+
+https://expressjs.com/en/resources/middleware/body-parser.html
+
